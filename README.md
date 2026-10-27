@@ -1,1 +1,0 @@
-# whitecaps-data-pipelines
